@@ -1,9 +1,9 @@
 # Bem-Vindos ao meu GitHub! :star:
 
 :octocat: Me nome é Paulo Bridi!  
-:wrench: Estudante de Ciências da Computação pela Gran Faculdade  
+:computer: Estudante de Ciências da Computação pela Gran Faculdade  
 :milky_way: Sou um observador do Universo que está em eterno movimento  
-💞️ Estou trabalhando na minha jornada Dev e todos os meus estudos de Computação  
+:watch: Estou trabalhando na minha jornada Dev e todos os meus estudos de Computação  
 :four_leaf_clover: Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
 
 <div align="center">
