@@ -6,6 +6,8 @@
 :watch: Estou trabalhando na minha jornada Dev e todos os meus estudos de Computação  
 :four_leaf_clover: Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
 
+### Aprendendo as Tecnologias Abaixo:
+
 <div align="center">
 <div style="display: inline_block"><br>
 <img align="center" alt="Aline-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
