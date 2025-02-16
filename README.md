@@ -12,6 +12,8 @@
 :watch: Estou trabalhando na minha jornada Dev e todos os meus estudos de Computação  
 :four_leaf_clover: Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
 
+---
+
 ### Aprendendo as Tecnologias Abaixo:
 
 <div align="center">
