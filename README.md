@@ -1,5 +1,11 @@
 # Bem-Vindos ao meu GitHub! :star:
 
+<center><h2> SEJAM BEM VINDOS AO MEU MUNDO </h2><center>
+
+---
+![Gif de Computação](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnA0ZndwZWttZGxhZGpwaXhieGlkdWdhdDA2ZHJ1cWI5dzFmNGRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6d9wFmrDf30MiH8Vx/giphy.gif)
+
+
 :octocat: Me nome é Paulo Bridi!  
 :computer: Estudante de Ciências da Computação pela Gran Faculdade  
 :milky_way: Sou um observador do Universo que está em eterno movimento  
