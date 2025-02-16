@@ -3,7 +3,7 @@
 <center><h2> SEJAM BEM VINDOS AO MEU MUNDO </h2><center>
 
 ---
-![Gif de Computação](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnA0ZndwZWttZGxhZGpwaXhieGlkdWdhdDA2ZHJ1cWI5dzFmNGRvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6d9wFmrDf30MiH8Vx/giphy.gif)
+![Gif de Computação](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZ3OGtuZTEzbnJkZmVpeWRweTZ1dzg3d2hxc2hmMW5yYngxNXNldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
 
 
 :octocat: Me nome é Paulo Bridi!  
