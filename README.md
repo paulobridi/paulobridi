@@ -30,10 +30,9 @@
 
 | Cursos | Certificados |
 |--------| -------------|
-|Programação para Machine Learning | [Certificado](https://assets.dio.me/QXpWxzSJxQ94ulSdpfwYFm7thaQ4Hb8nDMWpjHoCGB4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9PUFRPVkNLNi5qcGc)
+|Programação para Machine Learning| [Certificado](https://assets.dio.me/tcYi2FauT_SjdEdsAB68mCzXcZ9SaygITvoFOxLOfEo/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8wNEZEQklGUi5qcGc)
 |Introdução ao Machine Learning | [Certificado](https://assets.dio.me/MhwU8HRzeZmZQ2F2-roH9SiQW3r4nwHc7u6jBkggy44/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9FTEE5VEQ0Wi5qcGc)
 |Formação Fundamentos de Inteligência Artificial | [Certificado](https://assets.dio.me/1Ror-GXJr31WnWX5k-LpOkx5jvgjB2LxQkemYZ4iaVA/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9HNEhFSThLSy5qcGc)
 |Formação Github Certification| [Certificado](https://assets.dio.me/QIPRC1nFW5D7RyK1KA3lwLVQ7SBkcGPeNVQZ2_2SV00/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9aSEdSS1RWWi5qcGc)
 |Microsoft AI for Tech - GitHub Copilot| [Certificado](https://assets.dio.me/Iee3fqg0G6DE47HhGRb7ce_qD9N8XU_HB98g6p_q2Eo/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9IUFZLSVBGWS5qcGc)
 |Algoritmos de Treinamento em Machine Learning| [Certificado](https://assets.dio.me/WE7NOUHf3v7NY6_w8UW8jKGUpGHv9kSfMDsbXRcI1TU/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9FVUJSV0xLMy5qcGc)
-|Programação para Machine Learning| [Certificado](https://assets.dio.me/tcYi2FauT_SjdEdsAB68mCzXcZ9SaygITvoFOxLOfEo/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8wNEZEQklGUi5qcGc)
